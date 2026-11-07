@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+  <!-- PWA maskable 图标：图形缩进中心 80% 安全区 -->
+  <rect width="128" height="128" fill="#b23a2a"/>
+  <g transform="translate(64,64) scale(0.7) translate(-64,-64)">
+    <path d="M 116 88 C 94 74, 86 100, 68 91 C 52 83, 48 70, 51 55"
+      fill="none" stroke="#fdf8ef" stroke-width="13" stroke-linecap="round"/>
+    <circle cx="51" cy="40" r="11" fill="none" stroke="#fdf8ef" stroke-width="9.5"/>
+  </g>
+</svg>

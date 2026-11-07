@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+  <!-- PWA 安装图标：平台要求不透明底色，故保留色块版（应用内 Logo 为无底透明线条，见 Logo.tsx） -->
+  <rect width="128" height="128" rx="28" fill="#b23a2a"/>
+  <path d="M 116 88 C 94 74, 86 100, 68 91 C 52 83, 48 70, 51 55"
+    fill="none" stroke="#fdf8ef" stroke-width="13" stroke-linecap="round"/>
+  <circle cx="51" cy="40" r="11" fill="none" stroke="#fdf8ef" stroke-width="9.5"/>
+</svg>
